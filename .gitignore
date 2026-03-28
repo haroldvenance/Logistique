@@ -1,0 +1,22 @@
+# Fichiers générés par PyInstaller
+dist/
+build/
+*.spec
+*.exe
+
+# Données locales (ne pas versionner la base de données réelle)
+*.db
+backups/
+logs/
+__pycache__/
+*.pyc
+
+# Environnement virtuel (si présent)
+venv/
+env/
+.venv/
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
